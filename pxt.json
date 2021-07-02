@@ -1,0 +1,26 @@
+{
+    "name": "eureka_v2_71",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "microbit-dstemp": "github:bsiever/microbit-dstemp#v0.1.20",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "Eureka_V2_7.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
